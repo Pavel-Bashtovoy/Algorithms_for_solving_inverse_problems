@@ -1,0 +1,8 @@
+﻿  Algoritmy_obratnuh_zadach_lab_1.cpp
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(86,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(105,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(113,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(89,65): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1\Algoritmy_obratnuh_zadach_lab_1.cpp(89,68): warning C4101: b: неиспользованная локальная переменная
+  Algoritmy_obratnuh_zadach_lab_1.vcxproj -> C:\Users\Павел\source\repos\Algoritmy_obratnuh_zadach_lab_1\Debug\Algoritmy_obratnuh_zadach_lab_1.exe
